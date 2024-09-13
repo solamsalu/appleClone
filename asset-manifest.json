@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/appleClone/static/css/main.8a802dc0.css",
+    "main.js": "/appleClone/static/js/main.a9eb34c7.js",
+    "static/media/hero_iphone_13pro_largetall.jpg": "/appleClone/static/media/hero_iphone_13pro_largetall.e12eeabfafecde9e6710.jpg",
+    "static/media/spyder-lg.jpg": "/appleClone/static/media/spyder-lg.b1fde187926776d24239.jpg",
+    "static/media/iphone11-pro-bg.jpg": "/appleClone/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
+    "static/media/iphone11-bg.jpg": "/appleClone/static/media/iphone11-bg.c384672b76bc410be6fe.jpg",
+    "static/media/actors-lg.jpg": "/appleClone/static/media/actors-lg.0ba966ef68123039d4ba.jpg",
+    "static/media/mac-studio-large.jpg": "/appleClone/static/media/mac-studio-large.047f82307af7549028b7.jpg",
+    "static/media/iphone11-colored.jpg": "/appleClone/static/media/iphone11-colored.fe52aed245a591e8cc94.jpg",
+    "static/media/hero_iphone_13pro_small.jpg": "/appleClone/static/media/hero_iphone_13pro_small.e4d8fc0c7bf4bf76b9b0.jpg",
+    "static/media/macbookair-new.jpg": "/appleClone/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
+    "static/media/watch-series-5.jpg": "/appleClone/static/media/watch-series-5.0e3dade246613ea1c2f5.jpg",
+    "static/media/spyder.jpg": "/appleClone/static/media/spyder.c91b56342f94fc6e6e1f.jpg",
+    "static/media/apple-card-monthly-lg.jpg": "/appleClone/static/media/apple-card-monthly-lg.97c77d122c3c60ec5d07.jpg",
+    "static/media/actors.jpg": "/appleClone/static/media/actors.10f4f8d078a989ccb9bc.jpg",
+    "static/media/watch-lg.jpg": "/appleClone/static/media/watch-lg.9f6235fb68cbcff100d6.jpg",
+    "static/media/mac-studio-small.jpg": "/appleClone/static/media/mac-studio-small.d2e0488fcc2aa0553470.jpg",
+    "static/media/apple-card-monthly.jpg": "/appleClone/static/media/apple-card-monthly.a77ef6c49a97f9b1826e.jpg",
+    "static/media/macbookair-new-sm.jpg": "/appleClone/static/media/macbookair-new-sm.0a6fe6cc80d2c1257b36.jpg",
+    "index.html": "/appleClone/index.html",
+    "main.8a802dc0.css.map": "/appleClone/static/css/main.8a802dc0.css.map",
+    "main.a9eb34c7.js.map": "/appleClone/static/js/main.a9eb34c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a802dc0.css",
+    "static/js/main.a9eb34c7.js"
+  ]
+}
