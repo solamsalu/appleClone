@@ -14,7 +14,7 @@ import News from './component/News/News';
 
 function App() {
 	return (
-		<Router>
+		<Router basename="/appleClone">
 			<div>
 				<Header />
 				<Routes>
